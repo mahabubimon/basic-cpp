@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    // large number
+    // pass or fail number
     int num;
     cout<<"Enter your mark: ";
 
