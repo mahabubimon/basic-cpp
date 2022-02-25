@@ -18,25 +18,26 @@ int main()
         cout<<"Invalid mark.";
     }
     else if(mark>=80){
-        cout<<"you have got A+";
+        cout<<"you have got A+.";
     }
     else if(mark>=70){
-        cout<<"you have got A";
+        cout<<"you have got A.";
     }
     else if(mark>=60){
-        cout<<"you have got A-";
+        cout<<"you have got A-.";
     }
     else if(mark>=50){
-        cout<<"you have got B";
+        cout<<"you have got B.";
     }
     else if(mark>=40){
-        cout<<"you have got C";
+        cout<<"you have got C.";
     }
     else if(mark>=33){
-        cout<<"you have got D";
+        cout<<"you have got D.";
     }
     else{
-        cout<<"you have got F";
+        cout<<"you have got F."<<endl;
+        cout<<"Best of luck for next time.";
     }
 
     getch();
