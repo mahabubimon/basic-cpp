@@ -17,6 +17,5 @@ int main()
         cout<<year<<" is not leap year.";
     }
     
-
     getch();
 }
