@@ -1,0 +1,3 @@
+
+    cout<<lunch;
+    cout<<dinner; 
