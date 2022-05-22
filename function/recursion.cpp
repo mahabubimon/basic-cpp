@@ -1,5 +1,4 @@
 #include<iostream>
-#include<conio.h>
 using namespace std;
 
 int fact(int num){
@@ -14,5 +13,5 @@ int main() {
 
     cout<<factorial;
 
-    getch();
+    return 0;
 }
